@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      <h1 className="h1">Omar Ichou</h1>
+      <h1 className="h1">Omar Ichou 2</h1>
     </>
   );
 }
